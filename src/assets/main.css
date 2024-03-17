@@ -46,6 +46,18 @@ a,
   top: 0;
 }
 
+.btn {
+  color: white;
+  background: #2C3D50;
+  padding: 0.5rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #1f2b38;
+}
+
 @media (hover: hover) {
   a:hover {
     background-color: hsla(160, 100%, 37%, 0.2);
