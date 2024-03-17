@@ -39,7 +39,7 @@
 </script>
 
 <template>
-	<button @click="toggleWeekends">Toggle weekends</button>
+	<button @click="toggleWeekends"  class='btn'>Toggle weekends</button>
 	<FullCalendar :options="calendarOptions" />
 </template>
 
