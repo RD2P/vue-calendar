@@ -21,8 +21,8 @@
 					weekends: true,
 					headerToolbar: {
 						left: 'title',
-						center: 'dayGridMonth, timeGridWeek, timeGridDay',
-						right: 'prev,next'
+						center: 'dayGridMonth timeGridWeek timeGridDay',
+						right: 'prev next'
 					}
 				}
 			}
